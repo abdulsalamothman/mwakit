@@ -1,0 +1,9 @@
+{
+  "appId": "com.mawaqit.app",
+  "appName": "مواقيت الصلاة",
+  "webDir": "www",
+  "backgroundColor": "#182135",
+  "android": {
+    "allowMixedContent": true
+  }
+}
